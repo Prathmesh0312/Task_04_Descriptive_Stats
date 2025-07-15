@@ -56,4 +56,4 @@ Each script can be run standalone and accepts the following inputs:
 
 ### Pure Python - pure_python_stats.py
 ## Pandas - pandas_stats.py
-##Polars - polars_stats.py
+## Polars - polars_stats.py
