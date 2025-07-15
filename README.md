@@ -7,7 +7,7 @@ This repository contains a modular system (Python function) for generating descr
 -  Polars
 
 The system supports optional grouping by one or two categorical columns, and outputs both console summaries and grouped `.csv` files for Pandas.
-Use Data Wrangler extension is using VS Code foe easier and smooth csv reading.
+Use the Data Wrangler extension if using VS Code for easier and smoother CSV reading.
 ---
 
 ## File Structure
@@ -20,7 +20,7 @@ Task_04_Descriptive_Stats/
 ├── .gitignore 
 └── README.md 
 
-I have worked below the previos code for better understanding and streamline flow. But I did comment out the previous code (Hard Script).
+I have worked below the previous code for better understanding and streamlining the flow. But I did comment out the previous code (Hard Script).
 
 ---
 
@@ -37,11 +37,11 @@ This dataset includes information about U.S. postsecondary institutions such as:
  Dataset Source:  
 [Kaggle - IPEDS American University Data](https://www.kaggle.com/datasets/sumithbhongale/american-university-data-ipeds-dataset)
 
- **Note**: Per project guidelines, the dataset is not included in this repository. Butit can be downloaded manually from the above URL.
+ **Note**: Per project guidelines, the dataset is not included in this repository. But it can be downloaded manually from the above URL.
 
 ---
 
-## How to Use the modular system
+## How to Use the Modular System
 
 Each script can be run standalone and accepts the following inputs:
 
